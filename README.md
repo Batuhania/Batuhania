@@ -11,7 +11,7 @@
 
 ### About Me
 
-- Hey, I'm Batuhan 👋
+- I'm Batuhan 👋
 - I like building things I need — utilities, bots, web apps
 - Mostly Python and JavaScript
 
